@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on migrating my tech blog site to NextJS<br>👯 I'm looking to collaborate on innovative projects that push the boundaries of technology and creativity, where I can contribute my expertise in software development to solve real-world problems and make a positive impact on society<br>🤝 I’m looking for help with collaborating on open open-source project<br>🌱 I’m currently learning AWS and Project Management<br>💬 Ask me about JavaScript, TypeScript, ReactJS, NextJS, NoSQL, and SQL<br>⚡ Fun fact, I'm very curious and excited about learning new things!
+🔭 I’m currently migrating my tech blog to Next.js <br>
+👯 I’m open to collaborating on projects that blend technology and creativity to solve real-world problems <br>
+🤝 I’m interested in contributing to open-source projects <br>
+🌱 I’m learning AWS and exploring project management practices <br>
+💬 Ask me about JavaScript, TypeScript, React, Next.js, SQL, and NoSQL <br>
+⚡ Fun fact: I’m endlessly curious and always up for learning something new
 
 
 ## 🌐 Socials:
